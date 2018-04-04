@@ -1,2 +1,3 @@
 #!/bin/sh
-exec scala -nocompdaemon $1
+#exec scala -nocompdaemon $1
+exec scala Main
