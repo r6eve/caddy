@@ -1,0 +1,2 @@
+#!/bin/sh
+vbnc $1 -out:a.out
